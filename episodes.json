@@ -1,0 +1,286 @@
+[
+  {
+    "slug": "elegbede-azeez",
+    "title": "Elegbede Azeez aka Ace",
+    "summary": "In this episode, Ace and Fran chat about Ace's journey becoming an AsyncAPI contributor.",
+    "description": "In this episode, Ace and Fran chat about Ace's journey becoming an AsyncAPI contributor.",
+    "coverImage": "2022/16.jpg",
+    "guests": [
+      {
+        "name": "Elegbede Azeez aka Ace",
+        "title": "Individual Contributor"
+      }
+    ],
+    "published": "2022/06/15",
+    "videoId": "kQWASY7PPHM",
+    "videoSource": "youtube"
+  },
+  {
+    "slug": "james-urquhart-and-clemens-vasters",
+    "title": "James Urquhart and Clemens Vasters",
+    "summary": "In this episode, James, Clemens, and Fran chat about the future of EDA, Flow Architectures, AsyncAPI, and CloudEvents.",
+    "description": "In this episode, James, Clemens, and Fran chat about the future of EDA, Flow Architectures, AsyncAPI, and CloudEvents.",
+    "coverImage": "2022/17.jpg",
+    "guests": [
+      {
+        "name": "James Urquhart",
+        "title": "Global Field CTO at VMWare"
+      },
+      {
+        "name": "Clemens Vasters",
+        "title": "Principal Architect at Microsoft"
+      }
+    ],
+    "published": "2022/06/08",
+    "videoId": "d3GveOT0EPU",
+    "videoSource": "youtube"
+  },
+  {
+    "slug": "jeremy-whitlock",
+    "title": "Jeremy Whitlock",
+    "summary": "In this episode, Jeremy and Fran chat about how to build better parsers.",
+    "description": "In this episode, Jeremy and Fran chat about how to build better parsers.",
+    "coverImage": "2022/15.jpg",
+    "guests": [
+      {
+        "name": "Jeremy Whitlock",
+        "title": "Senior Software Engineer at Google"
+      }
+    ],
+    "published": "2022/05/25",
+    "videoId": "wwyHdrHTUlY",
+    "videoSource": "youtube"
+  },
+  {
+    "slug": "pia-mancini",
+    "title": "Pia Mancini",
+    "summary": "In this episode, Pia and Fran chat about Open Collective and how to fund open-source projects.",
+    "description": "In this episode, Pia and Fran chat about Open Collective and how to fund open-source projects.",
+    "coverImage": "2022/14.jpg",
+    "guests": [
+      {
+        "name": "Pia Mancini",
+        "title": "CEO at Open Collective"
+      }
+    ],
+    "published": "2022/05/11",
+    "videoId": "z3KH8Ie5dOc",
+    "videoSource": "youtube"
+  },
+  {
+    "slug": "simon-heimler",
+    "title": "Simon Heimler",
+    "summary": "In this episode, Simon and Fran chat about how SAP is using AsyncAPI.",
+    "description": "In this episode, Simon and Fran chat about how SAP is using AsyncAPI.",
+    "coverImage": "2022/13.jpg",
+    "guests": [
+      {
+        "name": "Simon Heimler",
+        "title": "Senior Software Engineer at SAP"
+      }
+    ],
+    "published": "2022/05/04",
+    "videoId": "sje9lzXcIpE",
+    "videoSource": "youtube"
+  },
+  {
+    "slug": "laurent-broudoux",
+    "title": "Laurent Broudoux",
+    "summary": "In this episode, Laurent and Fran chat about the state of testing and mocking of EDA using Microcks and AsyncAPI.",
+    "description": "In this episode, Laurent and Fran chat about the state of testing and mocking of EDA using Microcks and AsyncAPI.",
+    "coverImage": "2022/12.jpg",
+    "guests": [
+      {
+        "name": "Laurent Broudoux",
+        "title": "Senior Software Engineer at Red Hat"
+      }
+    ],
+    "published": "2022/04/27",
+    "videoId": "In5e6Nxa_1w",
+    "videoSource": "youtube"
+  },
+  {
+    "slug": "jonas-lagoni-and-sergio-moya",
+    "title": "Jonas Lagoni and Sergio Moya",
+    "summary": "In this episode, Jonas, Sergio, and Fran chat about the progress of AsyncAPI 3.0.0.",
+    "description": "In this episode, Jonas, Sergio, and Fran chat about the progress of AsyncAPI 3.0.0.",
+    "coverImage": "2022/11.jpg",
+    "guests": [
+      {
+        "name": "Jonas Lagoni",
+        "title": "Senior Software Engineer at Postman/AsyncAPI"
+      },
+      {
+        "name": "Sergio Moya",
+        "title": "Lead Software Engineer at Postman/AsyncAPI"
+      }
+    ],
+    "published": "2022/04/20",
+    "videoId": "EhIKTSePu9c",
+    "videoSource": "youtube"
+  },
+  {
+    "slug": "dominik-obermaier",
+    "title": "Dominik Obermaier",
+    "summary": "In this episode, Dominik and Fran chat about the role message brokers could have when it comes to EDA governance.",
+    "description": "In this episode, Dominik and Fran chat about the role message brokers could have when it comes to EDA governance.",
+    "coverImage": "2022/10.jpg",
+    "guests": [
+      {
+        "name": "Dominik Obermaier",
+        "title": "CTO at HiveMQ"
+      }
+    ],
+    "published": "2022/04/13",
+    "videoId": "wQzIsoVwoeM",
+    "videoSource": "youtube"
+  },
+  {
+    "slug": "lukasz-gornicki",
+    "title": "Łukasz Górnicki",
+    "summary": "In this episode, Łukasz and Fran chat about how to build open-source communities and improve the AsyncAPI one.",
+    "description": "In this episode, Łukasz and Fran chat about how to build open-source communities and improve the AsyncAPI one.",
+    "coverImage": "2022/6.jpg",
+    "guests": [
+      {
+        "name": "Łukasz Górnicki",
+        "title": "Community Guardian at Postman/AsyncAPI"
+      }
+    ],
+    "published": "2022/03/30",
+    "videoId": "v58xoDkxn4Q",
+    "videoSource": "youtube"
+  },
+  {
+    "slug": "lukasz-gornicki-and-dale-lane",
+    "title": "Łukasz Górnicki and Dale Lane",
+    "summary": "In this episode, Łukasz, Dale, and Fran chat about how to improve the contribution process of the AsyncAPI specification.",
+    "description": "In this episode, Łukasz, Dale, and Fran chat about how to improve the contribution process of the AsyncAPI specification.",
+    "coverImage": "2022/8.jpg",
+    "guests": [
+      {
+        "name": "Łukasz Górnicki",
+        "title": "Community Guardian at Postman/AsyncAPI"
+      },
+      {
+        "name": "Dale Lane",
+        "title": "Senior Software Engineer at IBM"
+      }
+    ],
+    "published": "2022/03/16",
+    "videoId": "cM9EE5W0KQg",
+    "videoSource": "youtube"
+  },
+  {
+    "slug": "ian-cooper",
+    "title": "Ian Cooper",
+    "summary": "In this episode, Ian and Fran chat about how to improve the contribution process of AsyncAPI bindings and how Just Eat is leveraging AsyncAPI.",
+    "description": "In this episode, Ian and Fran chat about how to improve the contribution process of AsyncAPI bindings and how Just Eat is leveraging AsyncAPI.",
+    "coverImage": "2022/7.jpg",
+    "guests": [
+      {
+        "name": "Ian Cooper",
+        "title": "Global Integration Architect at Just Eat"
+      }
+    ],
+    "published": "2022/03/09",
+    "videoId": "hrRgC1g5_88",
+    "videoSource": "youtube"
+  },
+  {
+    "slug": "lukasz-gornicki",
+    "title": "Łukasz Górnicki",
+    "summary": "This was a special episode. It was meant to be a chat with Łukasz Górnicki but turned out to be a message to the community since the Russia-Ukraine war started and Łukasz was busy helping folks in the borders.",
+    "description": "This was a special episode. It was meant to be a chat with Łukasz Górnicki but turned out to be a message to the community since the Russia-Ukraine war started and Łukasz was busy helping folks in the borders.",
+    "coverImage": "2022/6.jpg",
+    "guests": [
+      {
+        "name": "Łukasz Górnicki",
+        "title": "Community Guardian at Postman/AsyncAPI"
+      }
+    ],
+    "published": "2022/03/02",
+    "videoId": "v5xM9SH1DRQ",
+    "videoSource": "youtube"
+  },
+  {
+    "slug": "david-boyne",
+    "title": "David Boyne",
+    "summary": "In this episode, David and Fran chat about potential ways to visualizing event-driven architectures.",
+    "description": "In this episode, David and Fran chat about potential ways to visualizing event-driven architectures.",
+    "coverImage": "2022/5.jpg",
+    "guests": [
+      {
+        "name": "David Boyne",
+        "title": "Senior Software Engineer at Postman/AsyncAPI"
+      }
+    ],
+    "published": "2022/02/23",
+    "videoId": "VyEOQbx6W84",
+    "videoSource": "youtube"
+  },
+  {
+    "slug": "jesse-menning",
+    "title": "Jesse Menning",
+    "summary": "In this episode, Jesse and Fran chat about potential ways to solving the publish/subscribe confusion in AsyncAPI.",
+    "description": "In this episode, Jesse and Fran chat about potential ways to solving the publish/subscribe confusion in AsyncAPI.",
+    "coverImage": "2021/4.jpg",
+    "guests": [
+      {
+        "name": "Jesse Menning",
+        "title": "Architect, Office of the CTO at Solace"
+      }
+    ],
+    "published": "2021/08/26",
+    "videoId": "eJewFUR-OaM",
+    "videoSource": "youtube"
+  },
+  {
+    "slug": "michael-davis",
+    "title": "Michael Davis",
+    "summary": "In this episode, Michael and Fran chat about potential ways to solving the publish/subscribe confusion in AsyncAPI.",
+    "description": "In this episode, Michael and Fran chat about potential ways to solving the publish/subscribe confusion in AsyncAPI.",
+    "coverImage": "2021/3.jpg",
+    "guests": [
+      {
+        "name": "Michael Davis",
+        "title": "Senior Software Engineer at Solace"
+      }
+    ],
+    "published": "2021/08/05",
+    "videoId": "nMGcq2_UGvg",
+    "videoSource": "youtube"
+  },
+  {
+    "slug": "dale-lane",
+    "title": "Dale Lane",
+    "summary": "In this episode, Dale and Fran chat about potential ways to solving the publish/subscribe confusion in AsyncAPI.",
+    "description": "In this episode, Dale and Fran chat about potential ways to solving the publish/subscribe confusion in AsyncAPI.",
+    "coverImage": "2021/2.jpg",
+    "guests": [
+      {
+        "name": "Dale Lane",
+        "title": "Senior Software Engineer at IBM"
+      }
+    ],
+    "published": "2021/07/22",
+    "videoId": "Qsu_yC-5YYM",
+    "videoSource": "youtube"
+  },
+  {
+    "slug": "lorna-mitchell",
+    "title": "Lorna Mitchell",
+    "summary": "In this episode, Lorna and Fran chat about potential ways to solving the publish/subscribe confusion in AsyncAPI.",
+    "description": "In this episode, Lorna and Fran chat about potential ways to solving the publish/subscribe confusion in AsyncAPI.",
+    "coverImage": "2021/1.jpg",
+    "guests": [
+      {
+        "name": "Lorna Mitchell",
+        "title": "Head of Developer Relations at Aiven"
+      }
+    ],
+    "published": "2021/07/08",
+    "videoId": "YixYuYCmyJs",
+    "videoSource": "youtube"
+  }
+]
