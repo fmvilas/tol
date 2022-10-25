@@ -13,7 +13,7 @@ export default function Document() {
           rel="stylesheet"
           href="https://api.fontshare.com/v2/css?f[]=satoshi@700,500,400&display=swap"
         />
-        <script dangerouslySetInnerHTML={`
+        <script dangerouslySetInnerHTML={{__html: `
           var _paq = window._paq = window._paq || [];
           /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
           _paq.push(['trackPageView']);
@@ -25,7 +25,7 @@ export default function Document() {
             var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
             g.async=true; g.src='//cdn.matomo.cloud/tolshow.matomo.cloud/matomo.js'; s.parentNode.insertBefore(g,s);
           })();
-        `}/>
+        `}}/>
       </Head>
       <body>
         <Main />
