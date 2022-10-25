@@ -257,9 +257,6 @@ export function Layout({ children }) {
           </div>
         </div>
       </footer>
-      <div className="fixed inset-x-0 bottom-0 z-10 lg:left-112 xl:left-120">
-        <AudioPlayer />
-      </div>
     </>
   )
 }
